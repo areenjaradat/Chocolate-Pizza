@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+    margin: 20px;
+}
+header div img{
+    position: relative;
+    left: 1600px;
+}
+header div :nth-last-child(2) {margin-left:15px;}
+
+
+nav{
+    padding: 30px;
+    font-family: 'Dancing Script', cursive;
+}
+
+header nav img {
+    float: left;
+    margin-right: 10px;
+}
+
+.bigpic{
+    position: relative;
+    left: 500px;
+}
+
+
+footer .copy{
+    text-align: center;
+}
+main h1{
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+form{
+    width: 350px;
+    
+}
+
+.print{
+    position: relative;
+    bottom: 630px;
+    left: 1800px;
+}
+.paragrph{
+    padding: 10px;
+}
+.photo{
+    padding-left: 30px;
+}
+footer div h3, p{
+    position: relative;
+   
+}
